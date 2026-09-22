@@ -7,8 +7,12 @@ public static float suma(float a, float b){
 return a+b;
  }
 
+
 public static double suma (double a, double b){
-return a+b
+return a+b;
 }
 
+public static suma (String a, String b){
+return a+b;
+  }
 }
