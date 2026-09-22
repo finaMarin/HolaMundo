@@ -1,0 +1,6 @@
+class Bratllant {
+public static int bratllanEnTanga(String via, String anal) {
+return vi´+ anal;
+  }
+ }
+
